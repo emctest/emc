@@ -9,4 +9,4 @@ BugReport
     5.登录系统后左侧导航栏plone图标应替换为平台logo(if available)；
     6.网站设置界面版本概览信息应去掉，优化筛选plone原有网站设置，有选择的进行显示；
     7....(testing)
-    
+    8. IE8.0 登陆后侧边栏无法显示
